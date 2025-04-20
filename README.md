@@ -16,16 +16,6 @@ External libraries included in this library:
 
 ---
 
-### Features
-
-- ✅ Cross-platform: Windows & Linux
-- 🚧 Planned: Trim video/audio without re-encoding
-- 🚧 Planned: Preview playback with audio
-- 🚧 Planned: waveform visualization
-- 🚧 Planned: audio fading and cut transitions
-
----
-
 # Prerequisites (when compiling from source code)
 
 ## On Windows
